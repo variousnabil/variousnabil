@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on something immersive
 - 🌱 I’m currently learning to find the meaning of life
-- 👯 I’m looking to collaborate on JS project
+- 👯 I’m looking to collaborate on JS project related
 - 🤔 I’m looking for help with how to boil water
 - 💬 Ask me about cosmic ingredients
 - 📫 How to reach me: varionabilr@gmail.com
