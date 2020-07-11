@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on something big
+- 🔭 I’m currently working on something immersive
 - 🌱 I’m currently learning to find the meaning of life
 - 👯 I’m looking to collaborate on JS project
 - 🤔 I’m looking for help with how to boil water
