@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on something big
+- 🌱 I’m currently learning to find the meaning of life
+- 👯 I’m looking to collaborate on JS project
+- 🤔 I’m looking for help with how to cook water
+- 💬 Ask me about cosmic ingredients
+- 📫 How to reach me: varionabilr@gmail.com
+- 😄 Pronouns: it/its
+- ⚡ Fun fact: void didn't create itself
