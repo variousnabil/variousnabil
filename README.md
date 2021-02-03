@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building lego
-- 🌱 I’m currently learning to find the meaning of life
-- 👯 I’m looking to collaborate on JS project related
-- 🤔 I’m looking for help with how to boil water
+- 🔭 I’m currently working on building a chamber with lego
+- 🌱 I’m currently learning to flourish the plant
+- 👯 I’m looking to collaborate on anything miraculous
+- 🤔 I’m looking for help with rocket science
 - 💬 Ask me about metaphysics
 - 📫 How to reach me: varionabilr@gmail.com
 - 😄 Pronouns: it/its
